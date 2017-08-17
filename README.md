@@ -1,1 +1,2 @@
-### Angular Starter Plunker - Typescript# ngLifeCycle
+Angular Life Cycle hooks example explained
+Deploy on local machine to run code 
